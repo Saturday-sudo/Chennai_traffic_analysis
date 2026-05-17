@@ -2,7 +2,7 @@
 Chennai Traffic Congestion Analysis
 =====================================
 Data Science Portfolio Project
-Author: [Your Name]
+Author: Saturday-sudo
 Dataset: Synthetic 2024 traffic sensor data (14 corridors, hourly granularity)
 
 Pipeline:
